@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 *** Acknowledgement ***
 
-My Mumbai University Professor, Anup Kunte (kunte.anup@gmail.com) for his guidance and support
+My Professor from the Mumbai University, Anup Kunte(kunte.anup@gmail.com) for guidance and support
 ____________________________________________________________________________________________________________________________
 
 *** Contact ***
