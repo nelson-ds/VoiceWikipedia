@@ -1,17 +1,17 @@
 ***** Voice WIkipedia *****
 ***** Developed by Nelson Dsouza *****
 ***** March@2011 *****
-____________________________________________________________________________________________________________________________
+___________________________________________________________________________
 
 ***Description***
 
 A Java application which accepts user SMS details as keyword and return the Wikipedia entry for that keyword through automated phone call (AT commands) using text to speech synthesis (TTS API) 
-____________________________________________________________________________________________________________________________
+___________________________________________________________________________
 
 *** Acknowledgement ***
 
 My Professor from the Mumbai University, Anup Kunte(kunte.anup@gmail.com) for guidance and support
-____________________________________________________________________________________________________________________________
+___________________________________________________________________________
 
 *** Contact ***
 
